@@ -1,4 +1,4 @@
 Snippets
 ========
 
-A few code snippets I use.
+A few code snippets that I used.
