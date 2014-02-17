@@ -6,3 +6,6 @@ NSLog(@"Class Name: %@", [<#reference#> class]);
 
 // View Frame
 NSLog(@"View's Frame: %@", NSStringFromCGRect(<#view.frame#>));
+
+// Error Log
+NSLog(@"Error: %@", error);
